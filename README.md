@@ -5,6 +5,6 @@ Daito Kojima CSS Resume
 https://daitok6.github.io/CSSpractice/
 
 Ver. 1.0.0 (2023/07/03)
-初めてのCSSプロジェクトです。
-未完成ですが、ご覧ください！
+初めてのCSSプロジェクト
+未完成!!!！
 
